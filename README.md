@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @RezaT1994
+- 👀 I’m interested in JS
+- 🌱 I’m currently learning Everything
