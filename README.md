@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Reza
-- 👀 I’m interested in JS
+- 👀 I’m interested in JS and Rust
 - 🌱 I’m currently learning Everything
